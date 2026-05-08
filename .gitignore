@@ -1,0 +1,26 @@
+# DataFlex generated / compiled files
+Programs/
+*.exe
+*.dbg
+*.pdb
+*.map
+*.manifest
+*.bak
+*.tmp
+*.log
+
+# Temporary / cache files
+*.dsk
+*.cache
+*.swp
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# IDE local settings
+*.suo
+*.user
+.vs/
+IdeSrc/Workspace.loc
+*.loc
