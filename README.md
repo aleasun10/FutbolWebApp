@@ -59,7 +59,7 @@ Las tablas principales usadas en la aplicación son:
 
 ## Base de datos
 
-La base de datos se llama `futbol` y fue creada en MySQL a partir del script proporcionado para el ejercicio.
+La base de datos se llama `futbol` y fue creada en MySQL a partir del script proporcionado por DataFlex
 
 ## Autor
 
